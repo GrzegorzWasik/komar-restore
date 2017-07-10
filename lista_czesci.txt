@@ -1,0 +1,3 @@
+1. kierownica
+2. silnik
+3. bak
