@@ -1,3 +1,5 @@
 1. kierownica
 2. silnik
 3. bak
+4. linia z remota 1
+5. linia z remota 2
