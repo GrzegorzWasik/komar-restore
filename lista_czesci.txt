@@ -1,3 +1,4 @@
 1. kierownica
 2. silnik
 3. bak
+4. dodane pod local repo
